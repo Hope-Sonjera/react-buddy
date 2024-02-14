@@ -1,6 +1,6 @@
 <img src="src/assets/img/icon-128.png" width="64"/>
 
-# Chrome Extension (MV3) Boilerplate with React 18 and Webpack 5
+# Chrome Extension for restream chat
 
 [![npm](https://img.shields.io/npm/v/react-buddy)](https://www.npmjs.com/package/react-buddy)
 [![npm-download](https://img.shields.io/npm/dw/react-buddy)](https://www.npmjs.com/package/react-buddy)
@@ -147,4 +147,4 @@ ApiCall({ key: secrets.key });
 
 ---
 
-Michael Xieyang Liu | [Website](https://lxieyang.github.io)
+Hope Lucky Sonjera
